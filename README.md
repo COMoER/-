@@ -5,4 +5,5 @@
 ## 样本说明
 - 训练集样本为train.csv
 - 测试集样本为test.csv
+- 以上样本请于Kaggle上下载
 - 生成的预测为my_submission_p.csv
